@@ -1,0 +1,6 @@
+{
+  "name": "LABELLO — AI Tutor Waitlist",
+  "description": "Create your own AI tutor. Learning, built around you. Join the exclusive waitlist for LABELLO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
